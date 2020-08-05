@@ -20,7 +20,7 @@
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.0.0",
+    "express-fileupload": "^1.1.9",
     "req-flash": "0.0.3",
     "sqlite3": "^4.0.4"
   }
